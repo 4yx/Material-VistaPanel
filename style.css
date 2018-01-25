@@ -11,7 +11,7 @@
 html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;color:#fff;}
 .navbar{background-color:#1EA698;}
 #imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
-#lnkHeaderLogout{border-radius:0;border-shadow:0;border:0;box-shadow:0;}
+#lnkHeaderLogout{border-radius:0;border:0;box-shadow:0;-webkit-box-shadow:0;}
 .navbar-brand > font{display:none;}
 .navbar-brand > #lnkPoweredByCpanel{background:transparent!important;display:none!important;visibility:hidden!important;}
 a,a:hover,a:active{text-decoration:none;}
