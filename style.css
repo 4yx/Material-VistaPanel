@@ -13,7 +13,7 @@ html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;color:#fff;}
 #imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
 #lnkHeaderLogout{border-radius:0;border-shadow:0;border:0;}
 .navbar-brand > font{display:none;}
-.navbar-brand > #lnkPoweredByCpanel{background:transparent!important;display:none!important;}
+.navbar-brand > #lnkPoweredByCpanel{background:transparent!important;display:none!important;visibility:hidden!important;}
 a,a:hover,a:active{text-decoration:none;}
 a{color:#152559;transition:all 0.3s;}
 a:hover{color:#01a6d4;}
