@@ -18,5 +18,5 @@ html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;}
 a,a:hover,a:active{text-decoration:none;}
 a{color:#152559;transition:all 0.3s;}
 a:hover{color:#01a6d4;}
-.panel-heading.widget-heading{background-color:#25776E;}
+.panel-heading.widget-heading{background-color:#25776E;border-color:#25776E;}
 table{color:#000;}
