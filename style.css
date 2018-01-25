@@ -6,10 +6,9 @@
     background: #FC466B;
     background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
     background: linear-gradient(to right, #3F5EFB, #FC466B);
-    color: #fff;
 } 
 
-html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;}
+html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;color:#fff;}
 .navbar{background-color:#1EA698;}
 #imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
 #lnkHeaderLogout{border-radius:0;border-shadow:0;border:0;}
