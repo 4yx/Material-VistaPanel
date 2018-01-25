@@ -1,6 +1,8 @@
 /* Added some background color */
 #cpanel_body {
-	background: #FC466B;/*padding-left:0;max-width:360px;margin:5% auto;overflow-x:hidden;*/
-    background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);/*padding-left:0;max-width:360px;margin:5% auto;overflow-x:hidden;*/
-    background: linear-gradient(to right, #3F5EFB, #FC466B);/*padding-left:0;max-width:360px;margin:5% auto;overflow-x:hidden;*/
+    background: #FC466B;
+    background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
+    background: linear-gradient(to right, #3F5EFB, #FC466B);
 } 
+
+html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;}
