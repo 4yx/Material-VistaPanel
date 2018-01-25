@@ -14,3 +14,4 @@ html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;}
 #imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
 #lnkHeaderLogout{border-radius:0;border-shadow:0;border:0;}
 .navbar-brand > font{display:none;}
+.navbar-brand > #lnkPoweredByCpanel{background:transparent;}
