@@ -20,3 +20,4 @@ a:hover{color:#01a6d4;}
 .panel-heading.widget-heading{background-color:#25776E;border-color:#25776E;}
 table{color:#000;}
 #lblUserNameTxt,#caretImg{display:none;}
+input:focus,input:active{background-color:transparent;}
