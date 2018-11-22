@@ -1,8 +1,9 @@
 # VistaPanel Material Design Theme  
 
-This project will create a vPanel theme that looks great with Materialize. It was developed by PlanetCloud and maintained now by PCTipsGR.
+This project will create a vPanel theme that looks great with Materialize.  
+It was developed by PlanetCloud and maintained now by PCTipsGR.
 
-PlanetCloud and Tristian would also develop their own theme which would surely be better that this, but something happened and PDN has not time for this.  
+PlanetCloud and Tristian would also develop their own theme which would surely be better that this, but something happened and they have no time for this now.  
 
 This is just an Alpha Release, to show the basic functions.
 
