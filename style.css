@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Roboto";
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro";
 @import "materialize.min.css";
 
 /* Added some background color */
@@ -8,7 +8,7 @@
     background: linear-gradient(to right, #3F5EFB, #FC466B);
 } 
 
-html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Roboto',sans-serif;color:#00000;} !important;
+html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Source Sans Pro',sans-serif;color:#00000;} !important;
 .navbar{background-color:#1EA698;} !important;
 #imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
 #lnkHeaderLogout{border-radius:0;border:0;box-shadow:0;-webkit-box-shadow:0;} !important;
