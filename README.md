@@ -1,11 +1,18 @@
-# VistaPanel Material Design Theme  
+# Material VistaPanel
+This project will create a VistaPanel theme that looks great with Materialize.  
+Originally developed by [PlanetCloud](https://github.com/PlanetGamingGG) and [Tristian](https://github.com/OrdinaryJellyfish), now maintained by [PCTipsGR](https://github.com/PCTipsGR).
 
-This project will create a vPanel theme that looks great with Materialize.  
-It was developed by PlanetCloud and maintained now by PCTipsGR.
+## How to install
+You need to:
+1. Go to your [MyOwnFreeHost Panel](https://panel.myownfreehost.net)  
+2. Go to the "Your Adverts" section and select “Control Panel Advert Control”  
+3. Select your domain from the list and click on “Add/Change Panel Adverts”  
+4. Add the following code in the Footer advertising area:
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PCTipsGR/Material-VistaPanel@planet/style.css" />
+`  
 
-PlanetCloud and Tristian would also develop their own theme which would surely be better that this, but something happened and they have no time for this now.  
+## About the theme
+This is a small, basic theme, that is created as a template for people who want to create their own theme based on that.  
+I might develop it more, but currently I don't have the time.  
 
-This is just an Alpha Release, to show the basic functions.
-
-# Waiting time  
-I am busy at the moment. It might take a few months to be done :)  
+Any contribution is welcome, please submit a PR to get started.
