@@ -8,7 +8,8 @@ You need to:
 2. Go to the "Your Adverts" section and select “Control Panel Advert Control”  
 3. Select your domain from the list and click on “Add/Change Panel Adverts”  
 4. Add the following code in the Footer advertising area:  
-`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PCTipsGR/Material-VistaPanel@planet/style.css" />
+
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PCTipsGR/Material-VistaPanel/style.css" />
 `  
 
 ## About the theme
