@@ -9,8 +9,9 @@
 } 
 
 html,body,input,h1,h2,h3,h4,h5,h6{font-family:'Source Sans Pro',sans-serif;color:#00000;} !important;
+h1.page-header{line-height:42px;font-weight:300;font-size:42px;border-bottom:none} !important
+h2.{font-size:30px;} !important
 .navbar{background-color:#1EA698;} !important;
-#imgPoweredByCpanel,#txtCpanelVersion{visibility:hidden!important;display:none!important;}
 #lnkHeaderLogout{border-radius:0;border:0;box-shadow:0;-webkit-box-shadow:0;} !important;
 .navbar-brand > font{display:none;} !important;
 .navbar-brand > #lnkPoweredByCpanel{background:transparent!important;display:none!important;visibility:hidden!important;}
